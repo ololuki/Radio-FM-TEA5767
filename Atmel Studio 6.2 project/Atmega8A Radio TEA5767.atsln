@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Atmega8A Radio TEA5767", "Atmega8A Radio TEA5767\Atmega8A Radio TEA5767.cppproj", "{6DD16C68-F49D-46B1-8F24-E0BBB6B21A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD16C68-F49D-46B1-8F24-E0BBB6B21A1B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6DD16C68-F49D-46B1-8F24-E0BBB6B21A1B}.Debug|AVR.Build.0 = Debug|AVR
+		{6DD16C68-F49D-46B1-8F24-E0BBB6B21A1B}.Release|AVR.ActiveCfg = Release|AVR
+		{6DD16C68-F49D-46B1-8F24-E0BBB6B21A1B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
