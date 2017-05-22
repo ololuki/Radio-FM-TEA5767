@@ -15,7 +15,7 @@
 
 inline void setPullupOnButtonPins()
 {
-	PORTC |= (1 << PB3);	// btn1
+	PORTC |= (1 << PC3);	// btn1
 	PORTD |= (1 << PD2) | (1 << PD3) | (1 << PD4);				// btn 2 3 4
 }
 
